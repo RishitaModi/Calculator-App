@@ -16,3 +16,27 @@ Next, open styles.css and add the following styles to make the calculator look n
 Open index.html in a web browser.
 Test the functionality of each button to ensure the calculator works as expected.
 
+Display the Calculator
+
+![Screenshot (23)](https://github.com/RishitaModi/Calculator-App/assets/149221459/b76353e7-f583-4b5e-ac47-5bdb51266ce6)
+
+Perform arithmetic operations such as Addition,Substraction,etc.
+
+![Screenshot (24)](https://github.com/RishitaModi/Calculator-App/assets/149221459/e71195a0-8104-4433-892d-a312912bb8de)
+
+Answer of the Given Data
+
+![Screenshot (25)](https://github.com/RishitaModi/Calculator-App/assets/149221459/589774ac-a122-42e4-83c7-38f2673d420d)
+
+How to delete the number using DEL
+
+![Screenshot (26)](https://github.com/RishitaModi/Calculator-App/assets/149221459/6e29516e-a9d4-40a2-85e9-c91e83fe2120)
+
+
+![Screenshot (27)](https://github.com/RishitaModi/Calculator-App/assets/149221459/f7565952-eede-446c-b8b7-73ad1855b817)
+
+
+
+
+
+
